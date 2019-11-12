@@ -29,14 +29,14 @@ Running your first .tex file
 1. Create a file: hello_world.tex  
 创建一个hello_world.tex文件  
   
-2. Open and Write: 
+2. Open and Write:  
 打开这个文件，然后输入如下代码：  
 \documentclass{article}  
 \begin{document}  
   hello, world  
 \end{document}  
   
-3. Find the green triangle in upper left corner, then click it
+3. Find the green triangle in upper left corner, then click it  
 找到程序的左上角的绿色的三角形，单击即可运行程序  
   
 4. After a few seconds, a hello_world.pdf file will be generated  
